@@ -57,7 +57,7 @@ body{
 }
 
 .estudante-imagem{
-    width: 250px;
+    width: 150px;
 }
 
 .estudante-icone{
@@ -65,7 +65,7 @@ body{
 }
 
 .estudante-div{
-    text-align: center;
+    text-align: center
 }
 
 .estudante-titulo{
@@ -75,5 +75,5 @@ body{
 
 .estudante-todos{
     display: grid;
-    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-columns: 20% 20% 20% 20% 20%
 }
